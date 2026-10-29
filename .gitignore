@@ -1,0 +1,26 @@
+# 本地凭据（由 tools/fetch_remoteconfig.py 生成）
+config.local.json
+remoteconfig.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 运行产物
+server.log
+stress_r*.log
+*.log
+/out*.jpg
+/out*.jpeg
+/out*.mp4
+benchmark_results_quick.json
+browser_demo.png
+browser_result.png
+
+# 逆向原始产物（不入库）
+*.apk
+apktool_out/
+jadx_out/
+raw/

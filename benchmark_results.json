@@ -1,0 +1,86 @@
+{
+ "generated_at": "2026-10-29T23:32:22",
+ "duration_s": 203.9,
+ "results": [
+  {
+   "scenario": "S1 gateway /health",
+   "n": 20,
+   "ok": 20,
+   "fail": 0,
+   "p50_ms": 2.1,
+   "p95_ms": 4.2,
+   "max_ms": 15.9,
+   "note": "本地 FastAPI"
+  },
+  {
+   "scenario": "S2 upstream /timestamp",
+   "n": 10,
+   "ok": 10,
+   "fail": 0,
+   "p50_ms": 506.4,
+   "p95_ms": 1665.5,
+   "max_ms": 1665.5,
+   "note": "边缘层 412 风险已覆盖"
+  },
+  {
+   "scenario": "S3 local RSA sign",
+   "n": 200,
+   "ok": 200,
+   "fail": 0,
+   "p50_ms": 0.0,
+   "p95_ms": 0.0,
+   "max_ms": 2.1,
+   "note": "200 次耗时 6ms → 33317 op/s"
+  },
+  {
+   "scenario": "S4 presigned-link",
+   "n": 5,
+   "ok": 5,
+   "fail": 0,
+   "p50_ms": 602.3,
+   "p95_ms": 2357.2,
+   "max_ms": 2357.2,
+   "note": "S3 直传地址签发"
+  },
+  {
+   "scenario": "S5 image chain seq",
+   "n": 5,
+   "ok": 5,
+   "fail": 0,
+   "p50_ms": 14866.4,
+   "p95_ms": 18239.5,
+   "max_ms": 18239.5,
+   "note": "含 S3 上传 11~14s；样例 5 条直链"
+  },
+  {
+   "scenario": "S6 burst c3×2",
+   "n": 6,
+   "ok": 6,
+   "fail": 0,
+   "p50_ms": 15441.7,
+   "p95_ms": 17169.4,
+   "max_ms": 17169.4,
+   "note": "并发隔离性/上游限流观察"
+  },
+  {
+   "scenario": "S7 video workflow",
+   "n": 1,
+   "ok": 1,
+   "fail": 0,
+   "p50_ms": 36122.9,
+   "p95_ms": 36122.9,
+   "max_ms": 36122.9,
+   "note": "execute→轮询→mp4"
+  },
+  {
+   "scenario": "S8 error paths",
+   "n": 5,
+   "ok": 5,
+   "fail": 0,
+   "p50_ms": 0.0,
+   "p95_ms": 0.0,
+   "max_ms": 0.0,
+   "note": "5/5 断言通过"
+  }
+ ]
+}

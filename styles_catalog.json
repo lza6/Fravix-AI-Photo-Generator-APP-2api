@@ -1,0 +1,2602 @@
+{
+ "styles": [
+  {
+   "style_name": "Navratri",
+   "id": "navratri",
+   "thumbnail": "https://static.aperogroup.ai/content/uploads/862_5a16a259a2.webp",
+   "thumbnail_be_af": "https://static.aperogroup.ai/content/uploads/862_5a16a259a2.webp",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Create an ultra realistic cinematic Indian Garba festival photo using the uploaded image as the ONLY identity reference. Preserve the person’s exact face, skin tone, age and natural appearance. Dress her in a vibrant traditional Gujarati lehenga choli with colorful embroidery, mirror work and detailed patterns, paired with traditional jewelry and bangles. Show her joyfully dancing with dandiya sticks, her hair and wide lehenga naturally flowing with the movement. Place her at a lively nighttime Navratri celebration with Indian dancers, warm string lights, festive decorations and subtle firelight in the background. Use warm cinematic lighting, realistic fabric details, natural skin texture, dynamic motion, shallow depth of field and soft bokeh. Photorealistic DSLR photography, vertical 4:5 composition.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": true,
+   "order": 61,
+   "require_image": 1,
+   "mode": "VIDEO_EDITING"
+  },
+  {
+   "style_name": "AI Lookbook",
+   "id": "ai_lookbook",
+   "thumbnail": "https://static.aperogroup.ai/content/uploads/AI_Lookbook_fb74f610c5.webp",
+   "thumbnail_be_af": "https://static.aperogroup.ai/content/uploads/AI_Lookbook_fb74f610c5.webp",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Use the uploaded photo as identity reference, create a photorealistic overhead fashion lookbook collage using the uploaded photo as the ONLY identity and outfit reference. Show the same person seven times in different natural poses, preserving their exact facial features, skin tone, hairstyle, body proportions and original outfit, including all accessories and footwear. Composition: an editorial scattered grid with three figures on top, two in the middle and two at the bottom, no overlap. Poses: taking a selfie while walking, walking away with back visible, holding black sunglasses in side profile, walking sideways, talking on a phone, laughing with one arm playfully extended, and crouching with chin resting on one hand. Use a seamless pure white background, bright even lighting, bird’s-eye view, crisp details, realistic fabric textures, rich natural colors, vertical 3:4 ratio. No outfit changes, extra people, furniture, text, logos or watermarks.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 61,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Petrol Station",
+   "id": "petrol_station",
+   "thumbnail": "https://static.aperogroup.ai/content/uploads/petro862_6abd1392c3.webp",
+   "thumbnail_be_af": "https://static.aperogroup.ai/content/uploads/petro862_6abd1392c3.webp",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Create an ultra realistic cinematic night time photograph using the uploaded human photo as the ONLY identity reference. Preserve the person’s exact face, facial features, skin tone, hairstyle, body proportions, age and natural appearance without beautification or facial changes. Place the person naturally inside a modern Indian petrol station at night, standing on a wide wet tiled forecourt with realistic reflections from the station lights. Use a large contemporary petrol station canopy in the background with bright white ceiling lights, vivid blue LED edge lighting and subtle red accents, multiple fuel pumps and station equipment visible behind the person, authentic Indian petrol station architecture, dark deep blue night sky, softly illuminated trees and roadside elements in the distance. Keep the person as the main foreground subject with realistic full body proportions, natural standing pose, accurate feet placement and convincing contact shadows on the wet ground. Match the lighting on the person to the petrol station environment with cool blue and white highlights, realistic reflections and cinematic contrast. Photorealistic DSLR photography, natural skin texture, realistic fabric details, shallow depth of field, crisp subject, subtle background bokeh, high dynamic range, premium commercial photography, vertical 4:5 composition.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": true,
+   "order": 61,
+   "require_image": 1,
+   "mode": "VIDEO_EDITING"
+  },
+  {
+   "style_name": "Retro 80s",
+   "id": "retro_80s",
+   "thumbnail": "https://static.aperogroup.ai/content/uploads/862retro_0a52fb4ba1.webp",
+   "thumbnail_be_af": "https://static.aperogroup.ai/content/uploads/862retro_0a52fb4ba1.webp",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Ultra realistic yet slightly stylized 1980s retro couple portrait using the uploaded reference image as the identity and scene reference, vertical 9:16, featuring a young couple instead of a single person, shown in a natural candid or lightly posed upper thigh composition with confident playful chemistry, transformed into an authentic 80s fashion look with voluminous retro hairstyles, bright scrunchies or feathered hair, shiny pink teal purple nylon windbreakers, bold tops, high waisted acid wash jeans, statement earrings, layered necklaces, bracelets and vintage accessories, with a small before and after inset frame on the image to show the original uploaded look versus the 80s transformation, and with the background kept flexible according to the uploaded reference image so the location, room type, furniture, wall decor and lighting mood are adapted from the reference instead of forcing a mirror selfie or bedroom setup, while the overall environment is restyled into a believable 1980s aesthetic with appropriate props, textures, posters, retro decor and saturated nostalgic color grading, crisp detail, no watermark, no social media UI.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": true,
+   "order": 61,
+   "require_image": 1,
+   "mode": "VIDEO_EDITING"
+  },
+  {
+   "style_name": "Cinematic",
+   "id": "cinematic",
+   "thumbnail": "https://static.aperogroup.ai/content/uploads/cinematic862_b5d28fb236.webp",
+   "thumbnail_be_af": "https://static.aperogroup.ai/content/uploads/cinematic862_b5d28fb236.webp",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Create an ultra realistic 1990s Indian Bollywood style cinematic photo using the uploaded image as the only identity reference. Preserve her exact face, facial features, skin tone, age, hairstyle and natural skin texture with no face changes or beautification. Show her standing gracefully beside a classic black vintage Mercedes on an authentic old Indian city street, one arm resting naturally on the car while the other hand gently touches her hair, with a soft confident smile looking toward the camera. She has long natural dark wavy hair and wears a traditional cream floral printed Indian salwar kameez with delicate red and pink patterns, a deep red printed dupatta draped naturally over her shoulders, traditional bangles and small earrings. Warm golden hour sunlight creates a soft nostalgic glow across the scene. Background includes old weathered Indian buildings, colorful Bollywood movie posters, vintage street lamps, pedestrians, classic cars, old buses and a busy authentic Indian street atmosphere. Vertical 4:5 composition with near full body framing. Authentic 1990s analog Bollywood film aesthetic with warm muted tones, natural film grain, subtle dust, soft halation, faded blacks, gentle vignette, slightly hazy sunlight and cinematic nostalgia.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 61,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Bollywood",
+   "id": "bollywood",
+   "thumbnail": "https://static.aperogroup.ai/content/uploads/Bollywood_21e5fad2fa.webp",
+   "thumbnail_be_af": "https://static.aperogroup.ai/content/uploads/Bollywood_21e5fad2fa.webp",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Create an ultra realistic 1990s Indian Bollywood style cinematic photo using the uploaded image as the only identity reference. Preserve his exact face, facial features, skin tone, age, hairstyle and natural skin texture with no face changes or beautification. Show him confidently leaning against a classic black vintage car on an authentic old Indian street, both hands in trouser pockets and one leg slightly forward. Outfit includes a faded blue denim jacket with rolled sleeves, a retro multicolor patterned shirt, high waisted relaxed blue jeans, a leather belt with metallic buckle and a vintage wristwatch. Warm golden hour sunlight, old Indian buildings, faded posters, pedestrians and vintage vehicles in the background. Vertical 4:5 composition with near full body framing. Authentic 1990s analog film look with warm muted tones, natural film grain, subtle dust, soft halation, faded blacks, mild vignette and cinematic nostalgia.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 61,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "WorldCup",
+   "id": "worldcup_lego",
+   "thumbnail": "https://static.apero.vn/content/uploads/image_4fb089692e.png",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/image_4fb089692e.png",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Hyper-realistic cinematic studio photo. Using the reference image, recreate the person with identical face, hairstyle, and outfit, sitting behind a table in a dark studio. The person holds a LEGO minifigure (matching their appearance) above a detailed golden LEGO World Cup trophy placed front and center. The trophy is fully built from LEGO bricks with realistic gold texture and reflections. The minifigure has authentic LEGO proportions and plastic material. Solid black background, minimalist setup. Soft key light from the front, subtle rim light, faint backlight halo. Shot with an 85mm lens, shallow depth of field, strong bokeh. Focus on the minifigure and trophy, with sharp facial details. Clean black tabletop, centered composition, medium close-up, cinematic color grading, ultra-detailed, photorealistic, 8K.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 61,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "WorldCup Poster",
+   "id": "worldcup_poster",
+   "thumbnail": "https://static.apero.vn/content/uploads/Saved_Frame_from_usa_6_202606251750_d0bc7cc3bd.jpeg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Saved_Frame_from_usa_6_202606251750_d0bc7cc3bd.jpeg",
+   "categoryCode": "TRENDING_NOW",
+   "group": [
+    "Trending Now"
+   ],
+   "positivePrompt": "Ultra-detailed cinematic football poster of a young South Asian male soccer player with curly black hair, athletic build, confident smirk, wearing a blue and white striped Argentina-inspired football jersey with the name \"RAVI\" and number \"10\" on the back. Dynamic multi-pose composition featuring: a large front-facing portrait with intense expression, a back-facing standing pose showing the jersey name and number, a full body standing pose with arms crossed, an action pose sliding for the ball. Epic neon blue stadium background with glowing lights, cosmic energy, spark particles, dramatic atmosphere, electric blue glow effects, high contrast sports photography style. Large glowing handwritten text \"RAVI\" across the center. Professional sports poster design, ultra sharp details, vibrant colors, cinematic lighting, depth, realistic skin texture, realistic fabric folds, modern football promo aesthetic, 4K quality, vertical poster composition, highly detailed, dynamic energy. No logo.",
+   "negativePrompt": "blurry face, low quality, extra limbs, distorted anatomy, cartoon, anime, oversaturated skin, bad hands, duplicate body parts, text errors, watermark, logo, cropped head, flat lighting, unrealistic proportions",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 1,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Luxury Studio",
+   "id": "luxury_studio",
+   "thumbnail": "https://static.apero.vn/content/uploads/Couple_portrait_black_202604052047_04a1a7236e.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Couple_portrait_black_202604052047_04a1a7236e.webp",
+   "categoryCode": "COUPLE_EDITORIAL",
+   "group": [
+    "COUPLE EDITORIAL"
+   ],
+   "positivePrompt": "A couple portrait photo, black and white, high-end fashion editorial style, studio photography, neutral gray background, both wearing all-black outfits (turtleneck sweater), soft studio lighting, skin tones bright against dark clothes, intimate pose — woman resting head on man's shoulder, man in profile view, sharp details, Vogue magazine aesthetic, 9:16 vertical format, --ar 9:16 --style raw",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 1,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Casual Intellectual",
+   "id": "casual_intellectual",
+   "thumbnail": "https://static.apero.vn/content/uploads/Couple_portrait_wearing_202604052049_63a4dd7553.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Couple_portrait_wearing_202604052049_63a4dd7553.webp",
+   "categoryCode": "COUPLE_EDITORIAL",
+   "group": [
+    "COUPLE EDITORIAL"
+   ],
+   "positivePrompt": "Black and white couple portrait, both wearing black-rimmed glasses, light gray seamless background, casual-chic style, woman standing behind man wrapping arms around his chest, both wearing dark clothing, soft even lighting, natural expressions, intimate and warm atmosphere, film photography aesthetic, vertical 9:16 portrait --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 2,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Close-Up Dramatic",
+   "id": "close_up_dramatic",
+   "thumbnail": "https://static.apero.vn/content/uploads/Man_embracing_woman_202604052051_c3feb7eff9.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Man_embracing_woman_202604052051_c3feb7eff9.webp",
+   "categoryCode": "COUPLE_EDITORIAL",
+   "group": [
+    "COUPLE EDITORIAL"
+   ],
+   "positivePrompt": "Dramatic black and white couple portrait, close-up shot, man embracing woman from behind with arms crossing in front, woman's face partially framed by man's arm, man wearing silver luxury watch, woman with bold smokey eye makeup, intense direct gaze at camera, light gray background, high contrast B&W, editorial fashion photography, 9:16 vertical --ar 9:16 --style raw",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 3,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Night Drive",
+   "id": "night_drive",
+   "thumbnail": "https://static.apero.vn/content/uploads/Couple_inside_luxury_202604052052_1ad94bd7de.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Couple_inside_luxury_202604052052_1ad94bd7de.webp",
+   "categoryCode": "COUPLE_EDITORIAL",
+   "group": [
+    "COUPLE EDITORIAL"
+   ],
+   "positivePrompt": "Black and white cinematic couple photo inside a luxury Mercedes G63 at night, man driving, woman looking at him with a smile, city lights blurred in background through windshield, high contrast chiaroscuro lighting, interior car ambient light, intimate candid moment, film noir aesthetic, moody and romantic atmosphere, 9:16 vertical portrait --ar 9:16 --style cinematic",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 4,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Indoor Emotional",
+   "id": "indoor_emotional",
+   "thumbnail": "https://static.apero.vn/content/uploads/Two_women_facing_202604052142_55776608da.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Two_women_facing_202604052142_55776608da.webp",
+   "categoryCode": "EMOTIONAL_STORY",
+   "group": [
+    "EMOTIONAL"
+   ],
+   "positivePrompt": "Two women facing each other near a mirror, one wearing black hijab, one wearing soft floral blouse, both placing hands together palm-to-palm like a mirror reflection, warm soft indoor lighting, beige and white tones, emotional and intimate atmosphere, candid portrait style, slight motion blur, vertical 9:16 format, film grain texture, Arabic subtitle aesthetic",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 5,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Emotional Crying",
+   "id": "emotional_crying",
+   "thumbnail": "https://static.apero.vn/content/uploads/Woman_wearing_hijab_202604052142_9ced6fc1a1.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Woman_wearing_hijab_202604052142_9ced6fc1a1.webp",
+   "categoryCode": "EMOTIONAL_STORY",
+   "group": [
+    "EMOTIONAL"
+   ],
+   "positivePrompt": "Close-up portrait of a woman wearing beige hijab standing in front of a mirror, her reflection looking back, crying or emotional expression, dark navy outfit, room with white wallpaper with gray circle pattern, cool gray tones, soft diffused light, small flower detail near mouth, candid emotional moment, 9:16 vertical, Instagram Reels aesthetic, @GlamCam AI style",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 6,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Morphing Identity",
+   "id": "morphing_identity",
+   "thumbnail": "https://static.apero.vn/content/uploads/Two_women_touching_202604052144_600ce9586a.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Two_women_touching_202604052144_600ce9586a.webp",
+   "categoryCode": "EMOTIONAL_STORY",
+   "group": [
+    "EMOTIONAL"
+   ],
+   "positivePrompt": "Two women touching hands through a mirror glass, one's reflection morphing into the other, glass distortion effect, surreal mirror transition, one wearing floral clothes with light hair, one wearing black hijab, pale warm beige tones, dreamy soft focus, double exposure effect, 9:16 vertical, emotional healing aesthetic",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 7,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Arabic Motivational",
+   "id": "arabic_motivational",
+   "thumbnail": "https://static.apero.vn/content/uploads/Woman_wearing_black_202604052144_0a695ba7b6.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Woman_wearing_black_202604052144_0a695ba7b6.webp",
+   "categoryCode": "EMOTIONAL_STORY",
+   "group": [
+    "EMOTIONAL"
+   ],
+   "positivePrompt": "Portrait of a woman wearing black hijab standing before a mirror, soft indoor warm light, cream and beige background, calm serene expression, Arabic motivational quote subtitle overlay at bottom with black bar and white text, OR sage green rounded text box with white Arabic script in center, 9:16 vertical social media format, GlamCam AI aesthetic",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 8,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Curtain Bangs Wavy",
+   "id": "curtain_bangs_wavy",
+   "thumbnail": "https://static.apero.vn/content/uploads/Woman_with_wavy_202604061121_353064dce0.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Woman_with_wavy_202604061121_353064dce0.webp",
+   "categoryCode": "WOMEN_HAIRSTYLE",
+   "group": [
+    "Women Hairstyle"
+   ],
+   "positivePrompt": "portrait photo of a woman with curtain bangs, soft center-parted bangs framing face, long wavy hair with natural beachy waves, voluminous, romantic feminine look, warm studio lighting, fashion editorial style, 9:16 vertical --ar 9:16 --style raw",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 9,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Blunt Bob Sleek",
+   "id": "blunt_bob_sleek",
+   "thumbnail": "https://static.apero.vn/content/uploads/Woman_with_blunt_202604061121_f31337ca50.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Woman_with_blunt_202604061121_f31337ca50.webp",
+   "categoryCode": "WOMEN_HAIRSTYLE",
+   "group": [
+    "Women Hairstyle"
+   ],
+   "positivePrompt": "portrait of a woman with a sleek blunt bob haircut, straight hair cut precisely at jaw level, glossy and smooth texture, modern minimal aesthetic, soft front lighting, fashion portrait, white background --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 10,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Textured Pixie Cut",
+   "id": "textured_pixie_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/Woman_with_textured_202604061129_78f9c3e3fb.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Woman_with_textured_202604061129_78f9c3e3fb.webp",
+   "categoryCode": "WOMEN_HAIRSTYLE",
+   "group": [
+    "Women Hairstyle"
+   ],
+   "positivePrompt": "portrait of a woman with a textured pixie cut, short hair with choppy layers, side-swept top, clean shaved sides, bold and confident expression, editorial fashion photography, dramatic side lighting --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 11,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Sleek High Ponytail",
+   "id": "sleek_high_ponytail",
+   "thumbnail": "https://static.apero.vn/content/uploads/Woman_with_sleek_202604061123_2a1958c38d.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Woman_with_sleek_202604061123_2a1958c38d.webp",
+   "categoryCode": "WOMEN_HAIRSTYLE",
+   "group": [
+    "Women Hairstyle"
+   ],
+   "positivePrompt": "portrait of a woman with a high sleek ponytail, hair pulled back tightly with no flyaways, glossy straight tail, strong elegant jawline visible, fashion editorial style, clean studio white background, high contrast lighting --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 12,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Slick Back Undercut",
+   "id": "slick_back_undercut",
+   "thumbnail": "https://static.apero.vn/content/uploads/Man_with_slick_202604061124_d2bccef78f.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Man_with_slick_202604061124_d2bccef78f.webp",
+   "categoryCode": "MEN_HAIRSTYLE",
+   "group": [
+    "Men Hairstyle"
+   ],
+   "positivePrompt": "portrait of a man with slick back undercut hairstyle, hair combed straight back with pomade or gel, disconnected undercut sides, strong masculine jawline, moody dark studio background, fashion editorial --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 13,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Messy Textured Waves",
+   "id": "messy_textured_waves",
+   "thumbnail": "https://static.apero.vn/content/uploads/Man_with_messy_202604061125_c89c3981f5.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Man_with_messy_202604061125_c89c3981f5.webp",
+   "categoryCode": "MEN_HAIRSTYLE",
+   "group": [
+    "Men Hairstyle"
+   ],
+   "positivePrompt": "portrait of a man with messy textured wavy hair, medium length, natural waves with deliberate tousled look, relaxed confident vibe, casual lifestyle portrait, warm outdoor or studio lighting --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 14,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Buzz Cut",
+   "id": "buzz_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/Man_with_buzz_202604061126_75a2c356f6.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Man_with_buzz_202604061126_75a2c356f6.webp",
+   "categoryCode": "MEN_HAIRSTYLE",
+   "group": [
+    "Men Hairstyle"
+   ],
+   "positivePrompt": "portrait of a man with a clean buzz cut or caesar haircut, very short uniform length, strong face structure emphasized, athletic masculine aesthetic, high contrast studio lighting, direct camera gaze --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 15,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Man Bun",
+   "id": "man_bun",
+   "thumbnail": "https://static.apero.vn/content/uploads/Man_with_top_202604061128_ddd9ecc9dc.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Man_with_top_202604061128_ddd9ecc9dc.webp",
+   "categoryCode": "MEN_HAIRSTYLE",
+   "group": [
+    "Men Hairstyle"
+   ],
+   "positivePrompt": "portrait of a man with a man bun or top knot, hair pulled up and tied at crown, clean fade on sides, confident stylish appearance, modern masculine aesthetic, fashion portrait studio lighting --ar 9:16",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 16,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Pearl Grace",
+   "id": "pearl_grace",
+   "thumbnail": "https://static.apero.vn/content/uploads/lucid_origin_Pearl_Grace_old_money_aesthetic_subject_wearing_classic_pearls_elegant_posture_0_11zon_af56f11ba1.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/lucid_origin_Pearl_Grace_old_money_aesthetic_subject_wearing_classic_pearls_elegant_posture_0_11zon_af56f11ba1.webp",
+   "categoryCode": "OLD_MONEY",
+   "group": [
+    "Old money"
+   ],
+   "positivePrompt": "old money aesthetic, subject wearing classic pearls, elegant posture, soft natural light, neutral tones, timeless aristocratic beauty, refined and graceful mood",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 17,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Library Prestige",
+   "id": "library_prestige",
+   "thumbnail": "https://static.apero.vn/content/uploads/lucid_origin_Library_Prestige_vintage_library_interior_dark_wooden_shelves_leather_bound_book_0_11zon_1_c4fd6a8893.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/lucid_origin_Library_Prestige_vintage_library_interior_dark_wooden_shelves_leather_bound_book_0_11zon_1_c4fd6a8893.webp",
+   "categoryCode": "OLD_MONEY",
+   "group": [
+    "Old money"
+   ],
+   "positivePrompt": "vintage library interior, dark wooden shelves, leather-bound books, subject in classic tailored outfit, intellectual and wealthy atmosphere, cinematic lighting",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 18,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Ballroom Elegance",
+   "id": "ballroom_elegance",
+   "thumbnail": "https://static.apero.vn/content/uploads/lucid_origin_Ballroom_Elegance_grand_ballroom_interior_chandeliers_and_marble_floor_subject_i_0_11zon_1_7c4db4545e.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/lucid_origin_Ballroom_Elegance_grand_ballroom_interior_chandeliers_and_marble_floor_subject_i_0_11zon_1_7c4db4545e.webp",
+   "categoryCode": "OLD_MONEY",
+   "group": [
+    "Old money"
+   ],
+   "positivePrompt": "grand ballroom interior, chandeliers and marble floor, subject in formal evening attire, poised movement, classic European aristocracy style",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 19,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Estate Morning Light",
+   "id": "estate_morning_light",
+   "thumbnail": "https://static.apero.vn/content/uploads/Estate_Morning_Light_11zon_1bcabf9bb7.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Estate_Morning_Light_11zon_1bcabf9bb7.webp",
+   "categoryCode": "OLD_MONEY",
+   "group": [
+    "Old money"
+   ],
+   "positivePrompt": "old European estate, morning sunlight through tall windows, subject in linen or silk outfit, calm and privileged lifestyle, soft cinematic glow",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 20,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Heritage Portrait",
+   "id": "heritage_portrait",
+   "thumbnail": "https://static.apero.vn/content/uploads/Heritage_Portrait_11zon_867fd6c866.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Heritage_Portrait_11zon_867fd6c866.webp",
+   "categoryCode": "OLD_MONEY",
+   "group": [
+    "Old money"
+   ],
+   "positivePrompt": "classic oil-painting-inspired portrait, subject posed formally, muted colors, heritage and lineage mood, museum-quality lighting",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 21,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Tennis Club Afternoon",
+   "id": "tennis_club_afternoon",
+   "thumbnail": "https://static.apero.vn/content/uploads/Tennis_Club_Afternoon_11zon_66155ff96b.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Tennis_Club_Afternoon_11zon_66155ff96b.webp",
+   "categoryCode": "OLD_MONEY",
+   "group": [
+    "Old money"
+   ],
+   "positivePrompt": "private tennis club setting, vintage sportswear, relaxed confidence, green lawn and sunlight, understated luxury lifestyle",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 22,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "3D Digital Caricature",
+   "id": "3d_digital_caricature",
+   "thumbnail": "https://static.apero.vn/content/uploads/3_D_Digital_Caricature_36c6407f28.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/3_D_Digital_Caricature_36c6407f28.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "Create a 3D digital caricature of me and my job. Pixar-style animation render, glossy texture, exaggerated facial features, big expressive eyes, soft studio lighting, high detail, vibrant colors.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 23,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Street Charcoal Sketch",
+   "id": "street_charcoal_sketch",
+   "thumbnail": "https://static.apero.vn/content/uploads/Street_Charcoal_Sketch_7a90fbc940.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Street_Charcoal_Sketch_7a90fbc940.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "Create a hand-drawn pencil sketch caricature of me and my job. Street artist style, black and white charcoal texture, rough shading, bold pencil strokes, exaggerated head size, white paper background.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 24,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Pop Art Comic",
+   "id": "pop_art_comic",
+   "thumbnail": "https://static.apero.vn/content/uploads/Pop_Art_Comic_85b50d16eb.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Pop_Art_Comic_85b50d16eb.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "Create a Pop Art style caricature of me and my job. Retro comic book look, bold black outlines, halftone dot pattern background, vibrant primary colors, dramatic expression, speech bubble text element.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 25,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Editorial Ink Illustration",
+   "id": "editorial_ink_illustration",
+   "thumbnail": "https://static.apero.vn/content/uploads/Editorial_Ink_Illustration_225af7299a.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Editorial_Ink_Illustration_225af7299a.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "Create a political editorial cartoon style caricature of me and my job. Ink line art, cross-hatching shading techniques, satirical vibe, newspaper illustration texture, sharp features.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 26,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Plastic Bobblehead",
+   "id": "plastic_bobblehead",
+   "thumbnail": "https://static.apero.vn/content/uploads/Plastic_Bobblehead_065c356c79.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Plastic_Bobblehead_065c356c79.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "Create a realistic caricature of me as a Bobblehead figurine. Plastic toy texture, shiny finish, giant oversized head, tiny body standing on a base, holding props related to my job, studio photography look.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 27,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Claymation Model",
+   "id": "claymation_model",
+   "thumbnail": "https://static.apero.vn/content/uploads/Claymation_Model_86b8c0267f.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Claymation_Model_86b8c0267f.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "Create a claymation style caricature of me and my job. Plasticine clay texture, handmade look, fingerprint details, soft focus background, stop-motion animation aesthetic, cute and chunky.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 28,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Urban Graffiti",
+   "id": "urban_graffiti",
+   "thumbnail": "https://static.apero.vn/content/uploads/Urban_Graffiti_96f2174c8d.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Urban_Graffiti_96f2174c8d.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "Create a graffiti mascot style caricature of me and my job. Street art spray paint texture, thick drips, vibrant urban colors, cartoonish and exaggerated, hip-hop vibe, painted on a brick wall background.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 29,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Cinematic Sticker Hybrid",
+   "id": "cinematic_sticker_hybrid",
+   "thumbnail": "https://static.apero.vn/content/uploads/Cinematic_Sticker_Hybrid_8941dedf4b.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Cinematic_Sticker_Hybrid_8941dedf4b.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "A 3D realistic Caricature (Massive Oversized eyes, Massive Oversized nose, Massive Oversized mouth, Massive Oversized head) illustration of me and my job, exaggerated facial features, bold thick black outline, very heavy black stroke around character and objects, integrated cinematic background, soft global lighting, natural shadows, depth of field, high-contrast colors, sharp edges.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 30,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Neon Cyber Trend",
+   "id": "neon_cyber_trend",
+   "thumbnail": "https://static.apero.vn/content/uploads/Neon_Cyber_Trend_bce4ea9fe5.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Neon_Cyber_Trend_bce4ea9fe5.jpg",
+   "categoryCode": "CARICATURE_TREND",
+   "group": [
+    "Caricature"
+   ],
+   "positivePrompt": "A 3D realistic Caricature (Massive Oversized eyes, Massive Oversized nose, Massive Oversized mouth, Massive Oversized head) of me and my job. Glowing neon outlines, cyberpunk aesthetic, high-contrast magenta and blue lighting, exaggerated expressions, digital workspace background, sharp cinematic detail.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 31,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Classic Yearbook Portrait",
+   "id": "classic_yearbook_portrait",
+   "thumbnail": "https://static.apero.vn/content/uploads/Classic_Yearbook_Portrait_11zon_2581694d51.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Classic_Yearbook_Portrait_11zon_2581694d51.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "yearbook portrait style, student facing camera, clean background, soft even lighting, natural smile, neat hairstyle, classic school photo look",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 32,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Casual School Look",
+   "id": "casual_school_look",
+   "thumbnail": "https://static.apero.vn/content/uploads/Casual_School_Look_11zon_c9e324da4e.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Casual_School_Look_11zon_c9e324da4e.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "yearbook photo, student wearing casual school outfit, relaxed posture, friendly expression, bright and youthful atmosphere",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 33,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Graduation Smile",
+   "id": "graduation_smile",
+   "thumbnail": "https://static.apero.vn/content/uploads/Graduation_Smile_11zon_381e3dd608.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Graduation_Smile_11zon_381e3dd608.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "graduation yearbook photo, student wearing graduation gown, confident smile, neutral background, proud and memorable moment",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 34,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Friends Together Frame",
+   "id": "friends_together_frame",
+   "thumbnail": "https://static.apero.vn/content/uploads/Friends_Together_Frame_11zon_96d6e909c2.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Friends_Together_Frame_11zon_96d6e909c2.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "yearbook group photo, friends standing close together, natural smiles, balanced composition, cheerful and nostalgic school vibe",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 35,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Outdoor Campus Shot",
+   "id": "outdoor_campus_shot",
+   "thumbnail": "https://static.apero.vn/content/uploads/Outdoor_Campus_Shot_11zon_d7bbc99057.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Outdoor_Campus_Shot_11zon_d7bbc99057.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "yearbook style photo taken on school campus, greenery or school building background, natural daylight, youthful and lively feeling",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 36,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Black & White Memory",
+   "id": "black_and_white_memory",
+   "thumbnail": "https://static.apero.vn/content/uploads/Black_and_White_Memory_11zon_b9d5be3d87.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Black_and_White_Memory_11zon_b9d5be3d87.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "black and white yearbook portrait, soft contrast, timeless and nostalgic mood, classic school photography style",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 37,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Creative Personality Pose",
+   "id": "creative_personality_pose",
+   "thumbnail": "https://static.apero.vn/content/uploads/Creative_Personality_Pose_11zon_1107e67803.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Creative_Personality_Pose_11zon_1107e67803.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "creative yearbook photo, student showing personality through pose or expression, clean background, playful but polished look",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 38,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "After Class Moment",
+   "id": "after_class_moment",
+   "thumbnail": "https://static.apero.vn/content/uploads/After_Class_Moment_11zon_27e0c6ca98.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/After_Class_Moment_11zon_27e0c6ca98.webp",
+   "categoryCode": "YEAR_BOOK",
+   "group": [
+    "Year book"
+   ],
+   "positivePrompt": "candid yearbook-style photo, student sitting or standing casually after class, warm light, relaxed and genuine expression",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 39,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Train Window Sunset",
+   "id": "train_window_sunset",
+   "thumbnail": "https://static.apero.vn/content/uploads/Train_Window_Sunset_11zon_ec2448d2bc.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Train_Window_Sunset_11zon_ec2448d2bc.webp",
+   "categoryCode": "ANIME",
+   "group": [
+    "Anime"
+   ],
+   "positivePrompt": "anime style illustration, character sitting by a train window, warm sunset light streaming in, motion blur outside, quiet and nostalgic mood, cinematic anime lighting",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 40,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Cozy Kitchen Morning",
+   "id": "cozy_kitchen_morning",
+   "thumbnail": "https://static.apero.vn/content/uploads/Cozy_Kitchen_Morning_11zon_f4e894a92a.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Cozy_Kitchen_Morning_11zon_f4e894a92a.webp",
+   "categoryCode": "ANIME",
+   "group": [
+    "Anime"
+   ],
+   "positivePrompt": "anime cozy kitchen scene, character preparing breakfast, soft morning sunlight, warm colors, slice of life atmosphere, gentle and comforting mood",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 41,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Rainy Window Thoughts",
+   "id": "rainy_window_thoughts",
+   "thumbnail": "https://static.apero.vn/content/uploads/Rainy_Window_Thoughts_11zon_5a738cca5c.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Rainy_Window_Thoughts_11zon_5a738cca5c.webp",
+   "categoryCode": "ANIME",
+   "group": [
+    "Anime"
+   ],
+   "positivePrompt": "anime scene, character looking out a rainy window, raindrops on glass, muted colors, reflective and emotional atmosphere, cinematic framing",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 42,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Rooftop Evening Breeze",
+   "id": "rooftop_evening_breeze",
+   "thumbnail": "https://static.apero.vn/content/uploads/Rooftop_Evening_Breeze_11zon_2ef780c78f.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Rooftop_Evening_Breeze_11zon_2ef780c78f.webp",
+   "categoryCode": "ANIME",
+   "group": [
+    "Anime"
+   ],
+   "positivePrompt": "anime rooftop at dusk, character standing under the sky, soft wind movement, city skyline background, calm and peaceful vibe",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 43,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Cafe Corner Silence",
+   "id": "cafe_corner_silence",
+   "thumbnail": "https://static.apero.vn/content/uploads/Cafe_Corner_Silence_11zon_31b40558b6.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Cafe_Corner_Silence_11zon_31b40558b6.webp",
+   "categoryCode": "ANIME",
+   "group": [
+    "Anime"
+   ],
+   "positivePrompt": "anime cafe interior, character sitting alone by the window, warm indoor lighting, coffee cup on the table, cozy and introspective mood",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 44,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Night Street Glow",
+   "id": "night_street_glow",
+   "thumbnail": "https://static.apero.vn/content/uploads/Night_Street_Glow_11zon_3bccee87fc.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Night_Street_Glow_11zon_3bccee87fc.webp",
+   "categoryCode": "ANIME",
+   "group": [
+    "Anime"
+   ],
+   "positivePrompt": "anime night street scene, neon signs reflecting on wet pavement, character walking slowly, cinematic lighting, quiet urban loneliness",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 45,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Positano Proposal",
+   "id": "positano_proposal",
+   "thumbnail": "https://static.apero.vn/content/uploads/Positano_Proposal_11zon_172aa84458.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Positano_Proposal_11zon_172aa84458.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "marriage proposal in Positano, Italy, colorful cliffside houses, couple holding hands, engagement ring visible, Mediterranean sunlight, romantic travel photography, cinematic realism",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 46,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Sunrise Beach Yes",
+   "id": "sunrise_beach_yes",
+   "thumbnail": "https://static.apero.vn/content/uploads/Sunrise_Beach_11zon_97500dd38d.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Sunrise_Beach_11zon_97500dd38d.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "sunrise beach proposal, soft golden morning light, couple standing barefoot on the sand, engagement ring moment, peaceful ocean background, emotional and intimate atmosphere",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 47,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Luxury Rooftop Proposal",
+   "id": "luxury_rooftop_proposal",
+   "thumbnail": "https://static.apero.vn/content/uploads/Luxury_Rooftop_Proposal_11zon_d1d3ce0978.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Luxury_Rooftop_Proposal_11zon_d1d3ce0978.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "luxury rooftop proposal, city skyline view, elegant decorations and flowers, couple embracing after saying yes, engagement ring close-up, cinematic night lighting",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 48,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Candlelight Dinner Yes",
+   "id": "candlelight_dinner_yes",
+   "thumbnail": "https://static.apero.vn/content/uploads/Candlelight_Dinner_11zon_2e094d7136.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Candlelight_Dinner_11zon_2e094d7136.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "candlelight dinner proposal, romantic indoor restaurant, roses and candles on the table, man proposing with ring, warm soft lighting, intimate and elegant mood",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 49,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Private Yacht Proposal",
+   "id": "private_yacht_proposal",
+   "thumbnail": "https://static.apero.vn/content/uploads/Private_Yacht_Proposal_11zon_647ead5a44.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Private_Yacht_Proposal_11zon_647ead5a44.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "proposal on a private yacht at sunset, open sea background, luxury lifestyle vibe, couple holding hands, engagement ring shining, cinematic romantic scene",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 50,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Mountain View Proposal",
+   "id": "mountain_view_proposal",
+   "thumbnail": "https://static.apero.vn/content/uploads/Mountain_View_Proposal_11zon_f74096af6c.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Mountain_View_Proposal_11zon_f74096af6c.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "mountain view proposal, couple standing on a scenic overlook, dramatic sky, engagement ring moment, epic and emotional atmosphere, cinematic landscape photography",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 51,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Parisian Balcony Yes",
+   "id": "parisian_balcony_yes",
+   "thumbnail": "https://static.apero.vn/content/uploads/Parisian_Balcony_Yes_11zon_7be89da6d2.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Parisian_Balcony_Yes_11zon_7be89da6d2.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "Paris balcony proposal, Eiffel Tower in the background, couple embracing after proposal, soft morning light, classic European romance, timeless aesthetic",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 52,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Garden Fairy Proposal",
+   "id": "garden_fairy_proposal",
+   "thumbnail": "https://static.apero.vn/content/uploads/Garden_Fairy_Proposal_11zon_409b046b09.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Garden_Fairy_Proposal_11zon_409b046b09.webp",
+   "categoryCode": "SHE_SAID_YES",
+   "group": [
+    "She said Yes"
+   ],
+   "positivePrompt": "garden proposal surrounded by flowers, soft sunlight through trees, romantic and dreamy setup, engagement ring moment, fairytale atmosphere",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 53,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "T-Shirt Neutral",
+   "id": "t_shirt_neutral",
+   "thumbnail": "https://static.apero.vn/content/uploads/T_Shirt_Neutral_11zon_026a4463d5.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/T_Shirt_Neutral_11zon_026a4463d5.webp",
+   "categoryCode": "ID_PHOTOS",
+   "group": [
+    "ID Photos"
+   ],
+   "positivePrompt": "ID photo style, subject wearing a plain t-shirt, front-facing pose, neutral facial expression, clean light background, even soft lighting, sharp focus, passport photo quality",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 54,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Vest Classic",
+   "id": "vest_classic",
+   "thumbnail": "https://static.apero.vn/content/uploads/Vest_Classic_11zon_1a39ddd69b.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Vest_Classic_11zon_1a39ddd69b.webp",
+   "categoryCode": "ID_PHOTOS",
+   "group": [
+    "ID Photos"
+   ],
+   "positivePrompt": "ID photo portrait, subject wearing a classic vest over shirt, straight posture, neutral background, professional lighting, official document photo style",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 55,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Formal Suit",
+   "id": "formal_suit",
+   "thumbnail": "https://static.apero.vn/content/uploads/Formal_Suit_11zon_ebb362b72a.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Formal_Suit_11zon_ebb362b72a.webp",
+   "categoryCode": "ID_PHOTOS",
+   "group": [
+    "ID Photos"
+   ],
+   "positivePrompt": "formal suit ID photo, subject wearing a dark suit and tie, centered composition, white or light gray background, balanced lighting, professional and official appearance",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 56,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Blazer Professional",
+   "id": "blazer_professional",
+   "thumbnail": "https://static.apero.vn/content/uploads/Blazer_Professional_11zon_93c53618c7.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Blazer_Professional_11zon_93c53618c7.webp",
+   "categoryCode": "ID_PHOTOS",
+   "group": [
+    "ID Photos"
+   ],
+   "positivePrompt": "ID photo portrait with blazer, clean modern look, front-facing angle, neutral expression, soft diffused lighting, corporate and professional tone",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 57,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Business Casual",
+   "id": "business_casual",
+   "thumbnail": "https://static.apero.vn/content/uploads/Business_Casual_11zon_4f2c232787.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Business_Casual_11zon_4f2c232787.webp",
+   "categoryCode": "ID_PHOTOS",
+   "group": [
+    "ID Photos"
+   ],
+   "positivePrompt": "business casual ID photo, subject wearing shirt without tie, relaxed but professional posture, neutral background, natural and even lighting",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 58,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Minimal Official",
+   "id": "minimal_official",
+   "thumbnail": "https://static.apero.vn/content/uploads/Minimal_Official_11zon_5da5db8664.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Minimal_Official_11zon_5da5db8664.webp",
+   "categoryCode": "ID_PHOTOS",
+   "group": [
+    "ID Photos"
+   ],
+   "positivePrompt": "minimal ID photo, no accessories, simple outfit, plain background, strict passport photo composition, high clarity and realism",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 59,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Student ID Style",
+   "id": "student_id_style",
+   "thumbnail": "https://static.apero.vn/content/uploads/Student_ID_Style_11zon_260d6d09be.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Student_ID_Style_11zon_260d6d09be.webp",
+   "categoryCode": "ID_PHOTOS",
+   "group": [
+    "ID Photos"
+   ],
+   "positivePrompt": "student ID photo style, casual neat clothing, light background, friendly neutral expression, clear and evenly lit face",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 60,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Scandinavian Minimal",
+   "id": "scandinavian_minimal",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_aa3c2efb52.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_aa3c2efb52.webp",
+   "categoryCode": "HOME_DECOR",
+   "group": [
+    " Home Decor"
+   ],
+   "positivePrompt": "Redesign the room in the input image into a Scandinavian minimalist interior. Bright neutral palette, white walls, light wood furniture, soft linen textures, simple decor, indoor plants, clean lines, natural daylight, cozy and airy atmosphere. Preserve the original room layout and structure.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 61,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Modern Luxury",
+   "id": "modern_luxury",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_1_94fd9dc68a.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_1_94fd9dc68a.webp",
+   "categoryCode": "HOME_DECOR",
+   "group": [
+    " Home Decor"
+   ],
+   "positivePrompt": "Transform the room into a modern luxury interior with elegant marble surfaces, premium furniture, soft ambient lighting, decorative wall panels, neutral beige and gold accents, high-end interior design aesthetic. Keep the original room layout while upgrading the decor.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 62,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Boho Chic",
+   "id": "boho_chic",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_3_c91b7cc265.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_3_c91b7cc265.webp",
+   "categoryCode": "HOME_DECOR",
+   "group": [
+    " Home Decor"
+   ],
+   "positivePrompt": "Redesign the room into a boho chic interior with rattan furniture, woven textures, pampas grass, layered textiles, warm earthy tones, hanging plants, relaxed artistic decor style. Preserve the structure of the original room while changing furniture and decoration.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 63,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Japandi Style",
+   "id": "japandi_style",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_2_ee1708afb0.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_2_ee1708afb0.webp",
+   "categoryCode": "HOME_DECOR",
+   "group": [
+    " Home Decor"
+   ],
+   "positivePrompt": "Transform the room into a Japandi-style interior combining Japanese minimalism and Scandinavian warmth. Natural wood, soft neutral colors, low furniture, clean geometry, soft lighting, calm zen atmosphere. Maintain the original room layout and perspective.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 64,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Cozy Cottage",
+   "id": "cozy_cottage",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_6_4a5a0aa8d5.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_6_4a5a0aa8d5.webp",
+   "categoryCode": "HOME_DECOR",
+   "group": [
+    " Home Decor"
+   ],
+   "positivePrompt": "Redesign the room into a cozy cottage interior with warm wooden furniture, soft blankets, vintage decor, warm lighting, floral accents, and a welcoming countryside home atmosphere. Preserve the original room structure while updating decor.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 65,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Futuristic Smart Home",
+   "id": "futuristic_smart_home",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_5_ab8ffdeda7.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_5_ab8ffdeda7.webp",
+   "categoryCode": "HOME_DECOR",
+   "group": [
+    " Home Decor"
+   ],
+   "positivePrompt": "Transform the room into a futuristic smart home interior with sleek modern furniture, subtle LED lighting, glass and metal elements, clean minimal surfaces, and advanced high-tech home design. Keep the original room layout but modernize the entire decor.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 66,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Couple Picnic #1",
+   "id": "couple_picnic_1",
+   "thumbnail": "https://static.apero.vn/content/uploads/Couple_1_eeeb537a02.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Couple_1_eeeb537a02.webp",
+   "categoryCode": "COUPLE_SELFIE",
+   "group": [
+    "Couple Picnic"
+   ],
+   "positivePrompt": "Use the uploaded couple photo as exact identity reference (100% facial preservation, natural skin texture with visible pores, no smoothing, no beautify). Ultra-realistic 9:16 smartphone overhead selfie, 24–28mm wide lens, close distance ~50cm, deep depth of field. Both lying on textured green grass, heads touching naturally. Expression candid mid-laughter: both genuinely laughing, teeth visible naturally, cheeks lifted asymmetrically, subtle eye squint, slight head movement blur from spontaneous motion; neither looking directly at camera, both reacting to each other. Warm uneven golden-hour sunlight from one side, realistic shadow under nose and chin, subtle sensor noise, no HDR polish, no stylization, documentary realism, no text, no UI.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 67,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Couple Picnic #2",
+   "id": "couple_picnic_2",
+   "thumbnail": "https://static.apero.vn/content/uploads/couple_2_2b6b7dfecd.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/couple_2_2b6b7dfecd.webp",
+   "categoryCode": "COUPLE_SELFIE",
+   "group": [
+    "Couple Picnic"
+   ],
+   "positivePrompt": "Use the uploaded couple photo as exact identity reference (100% facial preservation, natural asymmetry, visible pores, no smoothing). Ultra-realistic vertical 9:16 phone selfie, wide 24–28mm lens, close overhead angle. Both lying on grass, heads touching. Expression soft and intimate: both slightly turning eyes toward each other, subtle closed-lip smile, relaxed jaw, gentle cheek lift, calm breathing; eye contact between them, not at camera. Natural golden-hour sunlight creating warm highlights and soft shadow gradient across faces; no cinematic grading, subtle film grain, grounded real-life texture.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 68,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Couple Picnic #3",
+   "id": "couple_picnic_3",
+   "thumbnail": "https://static.apero.vn/content/uploads/couple_3_8cbfc97912.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/couple_3_8cbfc97912.webp",
+   "categoryCode": "COUPLE_SELFIE",
+   "group": [
+    "Couple Picnic"
+   ],
+   "positivePrompt": "Use the uploaded couple photo as exact identity reference (100% facial preservation, visible pores, natural under-eye tone, no smoothing). Ultra-realistic vertical 9:16 overhead selfie, 24–28mm lens, close distance. Both lying on grass, heads touching. Expression calm and peaceful: eyes gently closed or half-closed, lips relaxed, no forced smile, jaw fully relaxed; subtle breathing softness visible in facial muscles. Golden-hour sunlight softly warming one side of face, low contrast natural shadow, slight sensor grain, realistic texture, no cinematic polish.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 69,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Couple Picnic #4",
+   "id": "couple_picnic_4",
+   "thumbnail": "https://static.apero.vn/content/uploads/couple_4_12e3affd04.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/couple_4_12e3affd04.webp",
+   "categoryCode": "COUPLE_SELFIE",
+   "group": [
+    "Couple Picnic"
+   ],
+   "positivePrompt": "Use the uploaded couple photo as exact identity reference (100% face preservation, no beautify). Ultra-realistic smartphone overhead shot, 24–28mm lens, close distance, deep focus. Both lying on grass. Expression playful: one person smirking slightly with one corner of mouth raised and eyebrow subtly lifted; the other smiling softly with slight teeth showing and relaxed eyes; both maintaining natural facial asymmetry and micro muscle tension. Slight hair compression against grass, realistic skin microtexture, warm uneven sunlight, no gloss, documentary realism.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 70,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Couple Picnic #5",
+   "id": "couple_picnic_5",
+   "thumbnail": "https://static.apero.vn/content/uploads/Couple_5_9c799d1e75.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Couple_5_9c799d1e75.webp",
+   "categoryCode": "COUPLE_SELFIE",
+   "group": [
+    "Couple Picnic"
+   ],
+   "positivePrompt": "Use the uploaded couple photo as exact identity reference (100% facial preservation, natural asymmetry, real skin texture, no smoothing). Ultra-realistic 9:16 smartphone overhead selfie, 24–28mm wide lens, close distance, deep depth of field. Both lying on bright green grass, heads touching naturally. Expression authentic and confident: both looking directly at camera with genuine soft smile, slight cheek lift, natural eye crinkle, relaxed jaw muscles, no exaggerated symmetry. Warm side sunlight, realistic shadow depth, subtle 35mm grain, no HDR glow, no stylization, grounded real-world photography.",
+   "negativePrompt": "Low quality, blurry, watermark, text overlay, bad anatomy.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 71,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Bob Cut",
+   "id": "bob_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_bob_cut_4dfe42a4c1.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/bob_cut_84a319cc84.png",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Woman"
+   ],
+   "positivePrompt": "A detailed portrait of a model with a short straight bob cut; smooth and sleek with clean edges and even layers; natural hair color under natural lighting showcasing professional styling. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "Low quality, bad hands, missing fingers, watermark.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 1,
+   "require_image": 2,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Pixie Cut",
+   "id": "pixie_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_pixie_cut_ce3f18b95d.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Woman"
+   ],
+   "positivePrompt": "A close-up image featuring a model with a short cropped pixie cut; textured and tousled with choppy layers; edgy and modern look highlighted under soft lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 2,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Under Cut",
+   "id": "under_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_under_cut_0e3473d050.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Man"
+   ],
+   "positivePrompt": "Realistic portrait of a young man with a modern undercut fade haircut, slicked back textured top, clean sharp hairline, light stubble beard, handsome face, studio lighting, neutral gray background, professional photography, ultra realistic, high quality.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 3,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Beach Waves",
+   "id": "beach_waves",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_beach_waves_bdbb074db9.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Woman",
+    "Classic"
+   ],
+   "positivePrompt": "Realistic portrait of a beautiful woman with long blonde beach wave hairstyle, soft natural waves, side part, sun-kissed highlights, clear skin, soft makeup, natural lighting, professional photography, ultra realistic.",
+   "negativePrompt": "cartoon, anime, doll, plastic skin, overprocessed, blurry, low quality, harsh lighting, messy hair, stiff curls, unrealistic hair texture, distorted face",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 4,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Braided",
+   "id": "braided",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_braided_2d33c1d51d.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Woman"
+   ],
+   "positivePrompt": "Female braided hairstyle reference, cornrows with long box braids, clean scalp parting, tight neat braids, natural hair texture, realistic braid details, professional lighting, high realism.",
+   "negativePrompt": "cartoon, anime, doll, plastic skin, blurry, low quality, messy braids, uneven braids, unrealistic hair texture, overprocessed, distorted face",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 5,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Long Wavy",
+   "id": "long_wavy",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_long_wavy_f098242d66.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Woman"
+   ],
+   "positivePrompt": "An image showing a model with wavy hair consisting of loose waves and natural texture; soft curls and effortless style emphasized with healthy shine under soft lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 6,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "High Bun",
+   "id": "high_bun",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_high_bun_8fdad91ff9.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "Elegant high bun hairstyle, classic updo, smooth swept-back hair, voluminous structured bun, glossy texture, clean hairline, luxury hairstyle reference, studio lighting, ultra realistic.",
+   "negativePrompt": "messy hair, loose strands, low bun, ponytail, cartoon, anime, plastic skin, overexposed, blurry, low detail, distorted face, unnatural hair texture",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 7,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Ponytail",
+   "id": "ponytail",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_ponytail_8d8155296e.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Classic",
+    "Woman"
+   ],
+   "positivePrompt": "A side profile of a model with hair tied in a high ponytail; smooth and sleek with a neat and clean appearance; natural hair color highlighted under natural lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 8,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Slicked Back",
+   "id": "slicked_back",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_slicked_back_f1fc3f5c77.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Man",
+    "Classic"
+   ],
+   "positivePrompt": "Classic slicked-back men's hairstyle, clean and polished, dark brown hair, natural shine, medium volume on top, tight sides, sharp hairline, luxury men's grooming style, ultra realistic, studio lighting.",
+   "negativePrompt": "messy hair, spiky hair, fade haircut, undercut, curly hair, anime, cartoon, plastic skin, over-sharpened, blurry, low detail, distorted face, fake hair texture",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 9,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Curly Afro",
+   "id": "curly_afro",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_curly_afro_2c80206759.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A detailed portrait of a beautiful African model with a voluminous curly afro hairstyle; defined springy ringlets with natural highlights; warm skin tone, wearing gold hoop earrings and a delicate necklace; set against a solid teal background. Fixhand, masterpiece, best quality, realistic, high resolution.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 10,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Jet Black",
+   "id": "jet_black",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_jet_black_c21a32daa2.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "A detailed portrait of a model with a voluminous curly afro hairstyle; featuring solid jet black hair with a high-gloss finish; deep obsidian tones with subtle blue-black reflections; clean and sharp curl definition showcasing a natural healthy sheen under bright lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 11,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Ash Brown",
+   "id": "ash_brown",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_ash_brown_5c41ce0f64.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "A detailed portrait of a model with a voluminous curly afro hairstyle; featuring a rich espresso base with vibrant copper and bronze highlights on the defined ringlets; sun-kissed amber accents creating depth and dimension; professional hair coloring under soft studio lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 12,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Chocolate Brown",
+   "id": "chocolate_brown",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_chocolate_brown_1718bea8f1.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "An image of a model with rich chocolate brown hair; warm undertones with a glossy finish and natural shine; smooth texture highlighted under soft lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 13,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Burgundy",
+   "id": "burgundy",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_burgundy_4d4dc80f27.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A dramatic lighting portrait of a model with deep burgundy hair; dark red tones with rich color and a glossy finish; smooth texture emphasized with sharp focus. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 14,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Silver Gray",
+   "id": "silver_gray",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_silver_gray_87cafa03fb.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A studio image featuring a model with chic silver gray hair; cool undertones and metallic sheen with a sleek finish; smooth texture captured under professional lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 15,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Copper Red",
+   "id": "copper_red",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_copper_red_97b1956328.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A detailed portrait of a model with wind-swept flowing hair; featuring vibrant fiery copper red color with intense orange-gold highlights; a radiant, multidimensional hue that appears to glow from within; showcasing bold pigment and high-saturation professional coloring under warm lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 16,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Ombre Blue",
+   "id": "ombre_blue",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_ombre_blue_2a8c74237c.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A detailed portrait of a model with a curly afro hairstyle; hair color: deep chocolate brown roots, warm copper highlights, burnt orange undertones, sun-kissed amber tips; vibrant hair pigment, professional salon coloring, high-contrast hair tones, realistic texture. Masterpiece, best quality, photorealistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 17,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Platium Blonde",
+   "id": "platium_blonde",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_platinum_blonde_21fb90cbc1.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Popular"
+   ],
+   "positivePrompt": "A sharp-focused image of a model with bold platinum blonde hair; cool tones with a sleek finish and icy highlights; shiny texture emphasized under bright lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 18,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Mint Green",
+   "id": "mint_green",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_mint_green_3576bfd5bc.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A detailed portrait of a model with wind-swept flowing hair; featuring vibrant fiery Mint Green color with intense orange-gold highlights; a radiant, multidimensional hue that appears to glow from within; showcasing bold pigment and high-saturation professional coloring under warm lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 19,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Caramel Balayage",
+   "id": "caramel_balayage",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_caramel_balayage_bbebcb01fd.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "A detailed portrait of a model with wind-swept flowing hair; featuring vibrant fiery Caramel Balayage color with intense orange-gold highlights; a radiant, multidimensional hue that appears to glow from within; showcasing bold pigment and high-saturation professional coloring under warm lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 20,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Chestnut",
+   "id": "chestnut",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_chestnut_da2d8e7dc9.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "A detailed portrait of a model with wind-swept flowing hair; featuring vibrant fiery Chestnut color with intense orange-gold highlights; a radiant, multidimensional hue that appears to glow from within; showcasing bold pigment and high-saturation professional coloring under warm lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 21,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Rose Gold",
+   "id": "rose_gold",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_rose_gold_cced03e37d.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A soft-lit portrait featuring a model with trendy rose gold hair; warm tones with a metallic sheen and pastel highlights; soft glow captured under gentle lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 22,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Honey Blonde",
+   "id": "honey_blonde",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_honey_blonde_7e0f9f2bfb.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "A detailed portrait of a model with wind-swept flowing hair; featuring vibrant fiery Honey Blonde color with intense orange-gold highlights; a radiant, multidimensional hue that appears to glow from within; showcasing bold pigment and high-saturation professional coloring under warm lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 23,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Lavender",
+   "id": "lavender",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_lavender_e2527bfa5f.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A detailed portrait of a model with wind-swept flowing hair; featuring vibrant fiery Lavender color with intense orange-gold highlights; a radiant, multidimensional hue that appears to glow from within; showcasing bold pigment and high-saturation professional coloring under warm lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 24,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Bob Cut Video",
+   "id": "bob_cut_video",
+   "thumbnail": "https://dev-static.apero.vn/content/uploads/Thiet_ke_chua_co_ten_44_2fe20535ec_c716078238.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_VIDEO",
+   "group": [
+    "Video"
+   ],
+   "positivePrompt": "A cinematic video showing a woman transforming her hairstyle into a short straight bob cut; smooth transition, natural hair movement, professional styling. Realistic, high quality video.",
+   "negativePrompt": "Low quality, static, no movement, watermark.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": true,
+   "order": 25,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Beach Waves Video",
+   "id": "beach_waves_video",
+   "thumbnail": "https://dev-static.apero.vn/content/uploads/Thiet_ke_chua_co_ten_44_2fe20535ec_c716078238.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_VIDEO",
+   "group": [
+    "Video"
+   ],
+   "positivePrompt": "A cinematic video showing a woman's hair transforming into long beach waves; wind-blown movement, sun-kissed highlights, natural flow. Realistic, high quality video.",
+   "negativePrompt": "Low quality, static, no movement, watermark.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": true,
+   "order": 26,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Platinum Blonde Video",
+   "id": "platinum_blonde_video",
+   "thumbnail": "https://dev-static.apero.vn/content/uploads/Thiet_ke_chua_co_ten_44_2fe20535ec_c716078238.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_VIDEO",
+   "group": [
+    "Video"
+   ],
+   "positivePrompt": "A cinematic video showing hair color transforming to platinum blonde; smooth color transition, icy highlights, sleek finish. Realistic, high quality video.",
+   "negativePrompt": "Low quality, static, no movement, watermark.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": true,
+   "order": 27,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Silver Gray Video",
+   "id": "silver_gray_video",
+   "thumbnail": "https://dev-static.apero.vn/content/uploads/Thiet_ke_chua_co_ten_44_2fe20535ec_c716078238.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_VIDEO",
+   "group": [
+    "Video"
+   ],
+   "positivePrompt": "A cinematic video showing hair transforming to silver gray color; cool metallic sheen, smooth transition, professional lighting. Realistic, high quality video.",
+   "negativePrompt": "Low quality, static, no movement, watermark.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": true,
+   "order": 28,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Curtain Bangs",
+   "id": "curtain_bangs",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_long_wavy_f098242d66.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Woman"
+   ],
+   "positivePrompt": "Realistic portrait of a woman with curtain bangs hairstyle, soft face-framing layers parted in the middle, feathered texture, natural movement, medium-length hair, professional photography, studio lighting, ultra realistic.",
+   "negativePrompt": "cartoon, anime, blurry, low quality, distorted face",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 29,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Mohawk Fade",
+   "id": "mohawk_fade",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_under_cut_0e3473d050.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Man"
+   ],
+   "positivePrompt": "Realistic portrait of a young man with a modern mohawk fade haircut, short tapered sides, textured top, sharp lines, clean edge, studio lighting, neutral background, professional photography, ultra realistic.",
+   "negativePrompt": "cartoon, anime, blurry, low quality, distorted face",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 30,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "French Twist",
+   "id": "french_twist",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_high_bun_8fdad91ff9.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "Elegant french twist updo hairstyle, neatly rolled and pinned hair, sophisticated and polished look, smooth texture, clean hairline, luxury bridal style reference, studio lighting, ultra realistic.",
+   "negativePrompt": "messy hair, loose strands, cartoon, blurry, low quality",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 31,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Buzz Cut",
+   "id": "buzz_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_pixie_cut_ce3f18b95d.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Man",
+    "Bold"
+   ],
+   "positivePrompt": "Realistic portrait of a man with a clean buzz cut, very short even-length hair, sharp defined hairline, masculine look, clear skin, studio lighting, professional photography, ultra realistic.",
+   "negativePrompt": "cartoon, anime, blurry, low quality, distorted face, long hair",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 32,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Space Buns",
+   "id": "space_buns",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_high_bun_8fdad91ff9.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Bold",
+    "Woman"
+   ],
+   "positivePrompt": "Realistic portrait of a young woman with playful space buns hairstyle, two symmetrical high buns, neat parting, fun and youthful look, professional photography, studio lighting, ultra realistic.",
+   "negativePrompt": "cartoon, anime, blurry, low quality, messy hair",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 33,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Quiff",
+   "id": "quiff",
+   "thumbnail": "https://static.apero.vn/content/uploads/style_slicked_back_f1fc3f5c77.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_STYLE",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "Realistic portrait of a young man with a classic quiff hairstyle, voluminous swept-up front, tapered sides, clean sharp look, natural hair texture, studio lighting, professional photography, ultra realistic.",
+   "negativePrompt": "cartoon, anime, blurry, low quality, flat hair",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 34,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Peach Pink",
+   "id": "peach_pink",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_rose_gold_cced03e37d.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A detailed portrait of a model with soft peach pink hair color; warm pastel tones with a delicate shine; smooth texture and dreamy look under soft studio lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 35,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Midnight Blue",
+   "id": "midnight_blue",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_ombre_blue_2a8c74237c.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Bold"
+   ],
+   "positivePrompt": "A dramatic portrait of a model with deep midnight blue hair; dark navy tones with subtle blue reflections; rich color depth and glossy finish under moody lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": false,
+   "order": 36,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Strawberry Blonde",
+   "id": "strawberry_blonde",
+   "thumbnail": "https://static.apero.vn/content/uploads/color_honey_blonde_7e0f9f2bfb.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_COLOR",
+   "group": [
+    "Classic"
+   ],
+   "positivePrompt": "A warm portrait of a model with strawberry blonde hair; soft reddish-gold tones, natural warmth, sun-kissed highlights; healthy shine under golden hour lighting. Fixhand, masterpiece, best quality, realistic.",
+   "negativePrompt": "",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 37,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Braided Video",
+   "id": "braided_video",
+   "thumbnail": "https://dev-static.apero.vn/content/uploads/Thiet_ke_chua_co_ten_44_2fe20535ec_c716078238.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_VIDEO",
+   "group": [
+    "Video"
+   ],
+   "positivePrompt": "A cinematic video showing hair being styled into intricate braids; smooth weaving motion, detailed braid pattern, professional styling. Realistic, high quality video.",
+   "negativePrompt": "Low quality, static, no movement, watermark.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": true,
+   "order": 38,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Curly Afro Video",
+   "id": "curly_afro_video",
+   "thumbnail": "https://dev-static.apero.vn/content/uploads/Thiet_ke_chua_co_ten_44_2fe20535ec_c716078238.webp",
+   "thumbnail_be_af": "",
+   "categoryCode": "HAIR_VIDEO",
+   "group": [
+    "Video"
+   ],
+   "positivePrompt": "A cinematic video showing hair transforming into a voluminous curly afro; natural bounce, defined ringlets, dynamic movement. Realistic, high quality video.",
+   "negativePrompt": "Low quality, static, no movement, watermark.",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": false,
+   "is_video": true,
+   "order": 39,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Ballroom Elegance",
+   "id": "ballroom_elegance",
+   "thumbnail": "https://static.apero.vn/content/uploads/lucid_origin_Ballroom_Elegance_grand_ballroom_interior_chandeliers_and_marble_floor_subject_i_0_11zon_1_7c4db4545e.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/lucid_origin_Ballroom_Elegance_grand_ballroom_interior_chandeliers_and_marble_floor_subject_i_0_11zon_1_7c4db4545e.webp",
+   "categoryCode": "PORTRAIT_STYLE",
+   "group": [
+    "Trending",
+    "Popular",
+    "Luxury"
+   ],
+   "positivePrompt": "grand ballroom interior, chandeliers and marble floor, subject in formal evening attire, poised movement, classic European aristocracy style, cinematic lighting, elegant composition, realistic, masterpiece",
+   "negativePrompt": "low quality, blurry, distorted, bad anatomy, watermark",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 40,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Neon Cyber-Trend",
+   "id": "neon_cyber_trend",
+   "thumbnail": "https://static.apero.vn/content/uploads/Neon_Cyber_Trend_bce4ea9fe5.jpg",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Neon_Cyber_Trend_bce4ea9fe5.jpg",
+   "categoryCode": "CREATIVE_STYLE",
+   "group": [
+    "Trending",
+    "Popular",
+    "Creative"
+   ],
+   "positivePrompt": "3D realistic caricature with oversized facial features, glowing neon outlines, cyberpunk aesthetic, magenta and blue lighting, exaggerated expressions, digital workspace background, cinematic sharp detail",
+   "negativePrompt": "low quality, blurry, dull colors, realistic proportions, watermark",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 41,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Outdoor Campus Shot",
+   "id": "outdoor_campus_shot",
+   "thumbnail": "https://static.apero.vn/content/uploads/Outdoor_Campus_Shot_11zon_d7bbc99057.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Outdoor_Campus_Shot_11zon_d7bbc99057.webp",
+   "categoryCode": "PORTRAIT_STYLE",
+   "group": [
+    "Popular",
+    "Student",
+    "Lifestyle"
+   ],
+   "positivePrompt": "yearbook style photo on school campus, greenery background, natural daylight, youthful lively feeling, candid portrait, realistic skin texture",
+   "negativePrompt": "low quality, dark lighting, artificial look, watermark",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 42,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Night Street Glow",
+   "id": "night_street_glow",
+   "thumbnail": "https://static.apero.vn/content/uploads/Night_Street_Glow_11zon_3bccee87fc.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Night_Street_Glow_11zon_3bccee87fc.webp",
+   "categoryCode": "ANIME_STYLE",
+   "group": [
+    "Trending",
+    "Anime",
+    "Creative"
+   ],
+   "positivePrompt": "anime night street scene, neon reflections on wet pavement, character walking slowly, cinematic lighting, quiet urban loneliness, moody atmosphere",
+   "negativePrompt": "low quality, blurry, flat lighting, watermark",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 43,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Luxury Rooftop Proposal",
+   "id": "luxury_rooftop_proposal",
+   "thumbnail": "https://static.apero.vn/content/uploads/Luxury_Rooftop_Proposal_11zon_d1d3ce0978.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Luxury_Rooftop_Proposal_11zon_d1d3ce0978.webp",
+   "categoryCode": "COUPLE_STYLE",
+   "group": [
+    "Trending",
+    "Popular",
+    "Couple",
+    "Luxury"
+   ],
+   "positivePrompt": "luxury rooftop proposal, city skyline view, elegant decoration, flowers, couple embracing, engagement ring moment, cinematic night lighting, emotional atmosphere",
+   "negativePrompt": "low quality, dark noise, awkward pose, watermark",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 44,
+   "require_image": 2,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Cozy Cottage",
+   "id": "cozy_cottage",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_6_4a5a0aa8d5.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_6_4a5a0aa8d5.webp",
+   "categoryCode": "ROOM_STYLE",
+   "group": [
+    "Popular",
+    "Home",
+    "Lifestyle"
+   ],
+   "positivePrompt": "cozy cottage interior, warm wooden furniture, soft blankets, vintage decor, warm lighting, floral accents, countryside home atmosphere, preserve original room layout",
+   "negativePrompt": "modern, cold lighting, minimal, low quality",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 45,
+   "require_image": 1,
+   "mode": "IMAGE_EDITING"
+  },
+  {
+   "style_name": "Couple Picnic",
+   "id": "couple_picnic",
+   "thumbnail": "https://static.apero.vn/content/uploads/couple_2_2b6b7dfecd.webp",
+   "thumbnail_be_af": "https://static.apero.vn/content/uploads/couple_2_2b6b7dfecd.webp",
+   "categoryCode": "COUPLE_STYLE",
+   "group": [
+    "Trending",
+    "Popular",
+    "Couple",
+    "Lifestyle"
+   ],
+   "positivePrompt": "ultra realistic couple selfie, lying on grass, heads touching, natural skin texture, visible pores, soft intimate expression, golden hour sunlight, real-life photography, no stylization",
+   "negativePrompt": "beautify, smooth skin, HDR glow, fake lighting, watermark",
+   "accept_nsfw": false,
+   "is_active": true,
+   "on_home": true,
+   "is_video": false,
+   "order": 46,
+   "require_image": 2,
+   "mode": "IMAGE_EDITING"
+  }
+ ],
+ "categories": [
+  {
+   "name": "Couple Editorial",
+   "des": "Create stunning couple portraits with cinematic and high-fashion editorial style.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Couple_portrait_black_202604052047_04a1a7236e.webp",
+   "intro": "https://static.apero.vn/content/uploads/Couple_inside_luxury_202604052052_1ad94bd7de.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Couple_portrait_wearing_202604052049_63a4dd7553.webp",
+   "category_code": "COUPLE_EDITORIAL",
+   "is_active": true,
+   "order": 2
+  },
+  {
+   "name": "Emotional Story",
+   "des": "Express deep emotions and storytelling through artistic and cinematic portraits.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Two_women_facing_202604052142_55776608da.webp",
+   "intro": "https://static.apero.vn/content/uploads/Two_women_touching_202604052144_600ce9586a.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Woman_wearing_hijab_202604052142_9ced6fc1a1.webp",
+   "category_code": "EMOTIONAL_STORY",
+   "is_active": true,
+   "order": 3
+  },
+  {
+   "name": "Women Hairstyle",
+   "des": "Try trendy and modern hairstyles for women with AI transformation.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Woman_with_wavy_202604061121_353064dce0.webp",
+   "intro": "https://static.apero.vn/content/uploads/Woman_with_sleek_202604061123_2a1958c38d.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Woman_with_textured_202604061129_78f9c3e3fb.webp",
+   "category_code": "WOMEN_HAIRSTYLE",
+   "is_active": true,
+   "order": 4
+  },
+  {
+   "name": "Men Hairstyle",
+   "des": "Explore stylish and masculine haircut transformations instantly.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Man_with_slick_202604061124_d2bccef78f.webp",
+   "intro": "https://static.apero.vn/content/uploads/Man_with_top_202604061128_ddd9ecc9dc.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Man_with_messy_202604061125_c89c3981f5.webp",
+   "category_code": "MEN_HAIRSTYLE",
+   "is_active": true,
+   "order": 5
+  },
+  {
+   "name": "Old Money",
+   "des": "Capture timeless elegance with classic aristocratic aesthetics.",
+   "thumbnail": "https://static.apero.vn/content/uploads/lucid_origin_Pearl_Grace_old_money_aesthetic_subject_wearing_classic_pearls_elegant_posture_0_11zon_af56f11ba1.webp",
+   "intro": "https://static.apero.vn/content/uploads/Heritage_Portrait_11zon_867fd6c866.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Tennis_Club_Afternoon_11zon_66155ff96b.webp",
+   "category_code": "OLD_MONEY",
+   "is_active": true,
+   "order": 6
+  },
+  {
+   "name": "Caricature Trend",
+   "des": "Turn yourself into fun and exaggerated caricature styles.",
+   "thumbnail": "https://static.apero.vn/content/uploads/cartoon_network_thumbnail_632e7722d3.jpg",
+   "intro": "https://static.apero.vn/content/uploads/Neon_Cyber_Trend_bce4ea9fe5.jpg",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/3_D_Digital_Caricature_36c6407f28.jpg",
+   "category_code": "CARICATURE_TREND",
+   "is_active": true,
+   "order": 7
+  },
+  {
+   "name": "Yearbook",
+   "des": "Create nostalgic school portraits and yearbook-style memories.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Classic_Yearbook_Portrait_11zon_2581694d51.webp",
+   "intro": "https://static.apero.vn/content/uploads/Outdoor_Campus_Shot_11zon_d7bbc99057.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Graduation_Smile_11zon_381e3dd608.webp",
+   "category_code": "YEAR_BOOK",
+   "is_active": true,
+   "order": 8
+  },
+  {
+   "name": "Anime",
+   "des": "Transform your photos into cinematic anime-style scenes.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Train_Window_Sunset_11zon_ec2448d2bc.webp",
+   "intro": "https://static.apero.vn/content/uploads/Night_Street_Glow_11zon_3bccee87fc.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Cozy_Kitchen_Morning_11zon_f4e894a92a.webp",
+   "category_code": "ANIME",
+   "is_active": true,
+   "order": 9
+  },
+  {
+   "name": "She Said Yes",
+   "des": "Celebrate love with romantic proposal and engagement moments.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Positano_Proposal_11zon_172aa84458.webp",
+   "intro": "https://static.apero.vn/content/uploads/Luxury_Rooftop_Proposal_11zon_d1d3ce0978.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Parisian_Balcony_Yes_11zon_7be89da6d2.webp",
+   "category_code": "SHE_SAID_YES",
+   "is_active": true,
+   "order": 10
+  },
+  {
+   "name": "ID Photos",
+   "des": "Generate clean and professional ID and passport photos instantly.",
+   "thumbnail": "https://static.apero.vn/content/uploads/T_Shirt_Neutral_11zon_026a4463d5.webp",
+   "intro": "https://static.apero.vn/content/uploads/Formal_Suit_11zon_ebb362b72a.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Blazer_Professional_11zon_93c53618c7.webp",
+   "category_code": "ID_PHOTOS",
+   "is_active": true,
+   "order": 11
+  },
+  {
+   "name": "Home Decor",
+   "des": "Redesign your room with beautiful interior styles using AI.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_1_94fd9dc68a.webp",
+   "intro": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_5_ab8ffdeda7.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Home_Decor_Nhi_DPY_Original_aa3c2efb52.webp",
+   "category_code": "HOME_DECOR",
+   "is_active": true,
+   "order": 12
+  },
+  {
+   "name": "Couple Selfie",
+   "des": "Capture authentic and intimate couple moments in realistic selfie style.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Couple_1_eeeb537a02.webp",
+   "intro": "https://static.apero.vn/content/uploads/Couple_5_9c799d1e75.webp",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/couple_2_2b6b7dfecd.webp",
+   "category_code": "COUPLE_SELFIE",
+   "is_active": true,
+   "order": 13
+  },
+  {
+   "name": "Hair Style",
+   "des": "Instantly transform your look with AI-powered hairstyles.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Chat_GPT_Image_Mar_11_2026_06_18_55_PM_803da3cab8.webp",
+   "intro": "https://static.apero.vn/content/uploads/kling21_Transforming_with_long_straight_hair_a_middle_parting_0_c49b9057e4.mp4",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/color_ash_brown_5c41ce0f64.webp",
+   "category_code": "HAIR_STYLE",
+   "is_active": true,
+   "order": 1
+  },
+  {
+   "name": "Hair Color",
+   "des": "See yourself in a new hair color in seconds, powered by AI.",
+   "thumbnail": "https://static.apero.vn/content/uploads/Chat_GPT_Image_Mar_11_2026_06_23_31_PM_c9a6992f85.webp",
+   "intro": "https://static.apero.vn/content/uploads/kling21_She_changed_her_hair_color_to_platinum_blonde_but_kept_0_ade586d5e7.mp4",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/color_chocolate_brown_1718bea8f1.webp",
+   "category_code": "HAIR_COLOR",
+   "is_active": true,
+   "order": 2
+  },
+  {
+   "name": "AI Clothes",
+   "des": "See how different clothes look on you in seconds with AI.",
+   "thumbnail": "https://static.apero.vn/content/uploads/category_clothes_a704cd5726.webp",
+   "intro": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/bob_cut_84a319cc84.png",
+   "category_code": "CLOTHES",
+   "is_active": false,
+   "order": 3
+  },
+  {
+   "name": "AI Skin",
+   "des": "Enhance your skin instantly with AI.",
+   "thumbnail": "https://static.apero.vn/content/uploads/category_skin_fe2de479c9.webp",
+   "intro": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/bob_cut_84a319cc84.png",
+   "category_code": "MAKEUP",
+   "is_active": false,
+   "order": 4
+  },
+  {
+   "name": "Trending Now",
+   "des": "Discover the hottest AI photo trends everyone is using right now.",
+   "thumbnail": "https://static.apero.vn/content/uploads/us_1_f81353fcc5.png",
+   "intro": "https://static.apero.vn/content/uploads/us_2_88220944cc.jpeg",
+   "intro_thumbnail": "https://static.apero.vn/content/uploads/Spain_1_2739e6889f.png",
+   "category_code": "TRENDING_NOW",
+   "is_active": true,
+   "order": 1
+  }
+ ],
+ "banners": [
+  {
+   "name": "Bob Cut",
+   "des": "Try new cuts",
+   "style_id": "bob_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/1_2_aa61e5fbc2.webp",
+   "order": 1
+  },
+  {
+   "name": "Pixie Cut",
+   "des": "Instant change",
+   "style_id": "pixie_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/2_2_b1896d220f.webp",
+   "order": 2
+  },
+  {
+   "name": "Under Cut",
+   "des": "Virtual try-on",
+   "style_id": "under_cut",
+   "thumbnail": "https://static.apero.vn/content/uploads/3_2_beb002fd41.webp",
+   "order": 3
+  },
+  {
+   "name": "Slicked Back",
+   "des": "Glow analysis",
+   "style_id": "slicked_back",
+   "thumbnail": "https://static.apero.vn/content/uploads/4_2_8eebc72663.webp",
+   "order": 4
+  }
+ ]
+}
